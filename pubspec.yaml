@@ -1,7 +1,7 @@
 name: avocado_ui
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/jnthn223/avocado_ui
 
 environment:
       sdk: ">=3.0.2 <4.0.0"
